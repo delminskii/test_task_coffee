@@ -19,5 +19,5 @@ GENIUS_ACCESS_TOKEN="%YOUR_TOKEN_HERE%" python get_lyrics.py -h
 
 ## example run
 ```bash
-GENIUS_ACCESS_TOKEN="%YOUR_TOKEN_HERE%" python get_lyrics.py "Madonna girl gone wild" -o $HOME/madonna-girl_gone_wild
+GENIUS_ACCESS_TOKEN="%YOUR_TOKEN_HERE%" python get_lyrics.py "Madonna Girl gone wild" -o $HOME/madonna-girl_gone_wild.txt
 ```

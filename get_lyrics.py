@@ -17,8 +17,14 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 
+def by_search_str(item, search_str):
+    lowered = map(str.strip, search_str.split(' '))
+    full_title = str(item['result']['full_title']).lower().strip()
+    return all(x in full_title for x in lowered)
+
+
 if __name__ == '__main__':
-    print sys.ARGV
+    # print sys.argv
 
     ACCESS_TOKEN = os.environ.get('GENIUS_ACCESS_TOKEN')
 
@@ -52,12 +58,20 @@ if __name__ == '__main__':
     response = requests.get(SEARCH_ENDPOINT, headers=headers, params=params)
     if response.ok:
         json_response = response.json()
+        # print json.dumps(json_response, indent=2, sort_keys=True)
 
         # there're multiple search results sent be their server, so
         # we have to filter them and to look for interesting one for us
         search_results = json_response['response']['hits']
-        # TODO
-        # results_filtered = 
+        results_filtered = filter(lambda x: by_search_str(x, params['q']),
+                                  search_results)
+        if results_filtered:
+            # print 'FOUND'
+            # print json.dumps(results_filtered, indent=2, sort_keys=True)
+        else:
+            # TODO
+            print 'NOT FOUND'
+            pass
     else:
         # TODO
         pass

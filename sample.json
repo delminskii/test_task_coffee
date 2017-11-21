@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "status": 200
+  }, 
+  "response": {
+    "hits": [
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 6, 
+          "api_path": "/songs/69129", 
+          "full_title": "Girl Gone Wild by\u00a0Madonna", 
+          "header_image_thumbnail_url": "https://images.genius.com/e3cac3828f537e3ec45b968ebdb38eaa.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/e3cac3828f537e3ec45b968ebdb38eaa.1000x1000x1.jpg", 
+          "id": 69129, 
+          "lyrics_owner_id": 76262, 
+          "lyrics_state": "complete", 
+          "path": "/Madonna-girl-gone-wild-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/276", 
+            "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+            "id": 276, 
+            "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "name": "Madonna", 
+            "url": "https://genius.com/artists/Madonna"
+          }, 
+          "pyongs_count": 1, 
+          "song_art_image_thumbnail_url": "https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "pageviews": 8736, 
+            "unreviewed_annotations": 3
+          }, 
+          "title": "Girl Gone Wild", 
+          "title_with_featured": "Girl Gone Wild", 
+          "url": "https://genius.com/Madonna-girl-gone-wild-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 18, 
+          "api_path": "/songs/2107", 
+          "full_title": "Girls Fall Like Dominoes by\u00a0Nicki\u00a0Minaj", 
+          "header_image_thumbnail_url": "https://images.genius.com/d6d61d8701796dc020b41a2b48046ae0.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/d6d61d8701796dc020b41a2b48046ae0.1000x1000x1.jpg", 
+          "id": 2107, 
+          "lyrics_owner_id": 2201, 
+          "lyrics_state": "complete", 
+          "path": "/Nicki-minaj-girls-fall-like-dominoes-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/92", 
+            "header_image_url": "https://images.genius.com/66032fb1fe42a0c546712d960086f578.740x234x1.png", 
+            "id": 92, 
+            "image_url": "https://images.genius.com/79f030bf60f124defafc7a042b7a8c8f.387x387x1.jpg", 
+            "iq": 1341, 
+            "is_meme_verified": false, 
+            "is_verified": true, 
+            "name": "Nicki Minaj", 
+            "url": "https://genius.com/artists/Nicki-minaj"
+          }, 
+          "pyongs_count": 10, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/ce06bd93fef047307180c065f0555967.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "pageviews": 35093, 
+            "unreviewed_annotations": 1
+          }, 
+          "title": "Girls Fall Like Dominoes", 
+          "title_with_featured": "Girls Fall Like Dominoes", 
+          "url": "https://genius.com/Nicki-minaj-girls-fall-like-dominoes-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 1, 
+          "api_path": "/songs/1996074", 
+          "full_title": "Girls fall like dominoes - clean radio edit by\u00a0Nicki\u00a0Minaj", 
+          "header_image_thumbnail_url": "https://images.genius.com/79f030bf60f124defafc7a042b7a8c8f.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/79f030bf60f124defafc7a042b7a8c8f.387x387x1.jpg", 
+          "id": 1996074, 
+          "lyrics_owner_id": 1549345, 
+          "lyrics_state": "complete", 
+          "path": "/Nicki-minaj-girls-fall-like-dominoes-clean-radio-edit-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/92", 
+            "header_image_url": "https://images.genius.com/66032fb1fe42a0c546712d960086f578.740x234x1.png", 
+            "id": 92, 
+            "image_url": "https://images.genius.com/79f030bf60f124defafc7a042b7a8c8f.387x387x1.jpg", 
+            "iq": 1341, 
+            "is_meme_verified": false, 
+            "is_verified": true, 
+            "name": "Nicki Minaj", 
+            "url": "https://genius.com/artists/Nicki-minaj"
+          }, 
+          "pyongs_count": null, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/79f030bf60f124defafc7a042b7a8c8f.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 0
+          }, 
+          "title": "Girls fall like dominoes - clean radio edit", 
+          "title_with_featured": "Girls fall like dominoes - clean radio edit", 
+          "url": "https://genius.com/Nicki-minaj-girls-fall-like-dominoes-clean-radio-edit-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 0, 
+          "api_path": "/songs/3252544", 
+          "full_title": "That's How We're Living by\u00a0Lifeseeker", 
+          "header_image_thumbnail_url": "https://images.genius.com/433257bcb62144901e76b1d98153ac7c.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/433257bcb62144901e76b1d98153ac7c.300x300x1.jpg", 
+          "id": 3252544, 
+          "lyrics_owner_id": 2703923, 
+          "lyrics_state": "complete", 
+          "path": "/Lifeseeker-thats-how-were-living-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/22638", 
+            "header_image_url": "https://images.genius.com/433257bcb62144901e76b1d98153ac7c.300x300x1.jpg", 
+            "id": 22638, 
+            "image_url": "https://images.genius.com/433257bcb62144901e76b1d98153ac7c.300x300x1.jpg", 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "name": "Lifeseeker", 
+            "url": "https://genius.com/artists/Lifeseeker"
+          }, 
+          "pyongs_count": null, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/433257bcb62144901e76b1d98153ac7c.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 0
+          }, 
+          "title": "That's How We're Living", 
+          "title_with_featured": "That's How We're Living", 
+          "url": "https://genius.com/Lifeseeker-thats-how-were-living-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 19, 
+          "api_path": "/songs/541990", 
+          "full_title": "Lord of the Mics 6 Clash by\u00a0Lord\u00a0of the Mics (Ft.\u00a0Big\u00a0H & P\u00a0Money)", 
+          "header_image_thumbnail_url": "https://images.genius.com/4f954964feb722d4297bae793115da3d.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/4f954964feb722d4297bae793115da3d.400x400x1.jpg", 
+          "id": 541990, 
+          "lyrics_owner_id": 105144, 
+          "lyrics_state": "complete", 
+          "path": "/Lord-of-the-mics-lord-of-the-mics-6-clash-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/331233", 
+            "header_image_url": "https://images.genius.com/e538377478718770bbc968f297eb6177.900x900x1.jpg", 
+            "id": 331233, 
+            "image_url": "https://images.genius.com/e538377478718770bbc968f297eb6177.900x900x1.jpg", 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "name": "Lord of the Mics", 
+            "url": "https://genius.com/artists/Lord-of-the-mics"
+          }, 
+          "pyongs_count": 5, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/4f954964feb722d4297bae793115da3d.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 11
+          }, 
+          "title": "Lord of the Mics 6 Clash", 
+          "title_with_featured": "Lord of the Mics 6 Clash (Ft.\u00a0Big\u00a0H & P\u00a0Money)", 
+          "url": "https://genius.com/Lord-of-the-mics-lord-of-the-mics-6-clash-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 2, 
+          "api_path": "/songs/332607", 
+          "full_title": "O.P.P. (Live at Morris Brown) by\u00a0Naughty\u00a0By Nature", 
+          "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/1313008696_281x211.jpg", 
+          "header_image_url": "https://s3.amazonaws.com/rapgenius/1313008696_281x211.jpg", 
+          "id": 332607, 
+          "lyrics_owner_id": 381464, 
+          "lyrics_state": "complete", 
+          "path": "/Naughty-by-nature-opp-live-at-morris-brown-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/308", 
+            "header_image_url": "https://s3.amazonaws.com/rapgenius/1313008696_281x211.jpg", 
+            "id": 308, 
+            "image_url": "https://s3.amazonaws.com/rapgenius/1313008696_281x211.jpg", 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "name": "Naughty By Nature", 
+            "url": "https://genius.com/artists/Naughty-by-nature"
+          }, 
+          "pyongs_count": null, 
+          "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/1313008696_281x211.jpg", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 0
+          }, 
+          "title": "O.P.P. (Live at Morris Brown)", 
+          "title_with_featured": "O.P.P. (Live at Morris Brown)", 
+          "url": "https://genius.com/Naughty-by-nature-opp-live-at-morris-brown-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 0, 
+          "api_path": "/songs/2452764", 
+          "full_title": "Vibed Up Shawty by\u00a0Audio\u00a0Push", 
+          "header_image_thumbnail_url": "https://images.genius.com/310a9a4ec3cedef15d5d9e1419a5935a.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/310a9a4ec3cedef15d5d9e1419a5935a.500x500x1.jpg", 
+          "id": 2452764, 
+          "lyrics_owner_id": 1392552, 
+          "lyrics_state": "complete", 
+          "path": "/Audio-push-vibed-up-shawty-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/1981", 
+            "header_image_url": "https://images.genius.com/6b3bf30610270a41edd39aae22c27dc7.600x600x1.jpg", 
+            "id": 1981, 
+            "image_url": "https://images.genius.com/6b3bf30610270a41edd39aae22c27dc7.600x600x1.jpg", 
+            "iq": 535, 
+            "is_meme_verified": false, 
+            "is_verified": true, 
+            "name": "Audio Push", 
+            "url": "https://genius.com/artists/Audio-push"
+          }, 
+          "pyongs_count": null, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/310a9a4ec3cedef15d5d9e1419a5935a.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 0
+          }, 
+          "title": "Vibed Up Shawty", 
+          "title_with_featured": "Vibed Up Shawty", 
+          "url": "https://genius.com/Audio-push-vibed-up-shawty-lyrics"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 1, 
+          "api_path": "/songs/145519", 
+          "full_title": "The Bostonians (Chap. 3.36) by\u00a0Henry\u00a0James", 
+          "header_image_thumbnail_url": "https://images.genius.com/45895ed80dad908e6506921cde008151.300x300x1.png", 
+          "header_image_url": "https://images.genius.com/45895ed80dad908e6506921cde008151.1000x1000x1.png", 
+          "id": 145519, 
+          "lyrics_owner_id": 211897, 
+          "lyrics_state": "complete", 
+          "path": "/Henry-james-the-bostonians-chap-336-annotated", 
+          "primary_artist": {
+            "api_path": "/artists/44698", 
+            "header_image_url": "https://images.genius.com/40ed4e675f8cf77ea249350351230e0b.731x344x1.png", 
+            "id": 44698, 
+            "image_url": "https://images.genius.com/45895ed80dad908e6506921cde008151.1000x1000x1.png", 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "name": "Henry James", 
+            "url": "https://genius.com/artists/Henry-james"
+          }, 
+          "pyongs_count": null, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/45895ed80dad908e6506921cde008151.300x300x1.png", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 0
+          }, 
+          "title": "The Bostonians (Chap. 3.36)", 
+          "title_with_featured": "The Bostonians (Chap. 3.36)", 
+          "url": "https://genius.com/Henry-james-the-bostonians-chap-336-annotated"
+        }, 
+        "type": "song"
+      }, 
+      {
+        "highlights": [], 
+        "index": "song", 
+        "result": {
+          "annotation_count": 12, 
+          "api_path": "/songs/488897", 
+          "full_title": "Oi Mate by\u00a0Donae'O (Ft.\u00a0Youngs\u00a0Teflon)", 
+          "header_image_thumbnail_url": "https://images.genius.com/a26fa175ba2a055fea66ec26700c06ea.300x300x1.jpg", 
+          "header_image_url": "https://images.genius.com/a26fa175ba2a055fea66ec26700c06ea.1000x1000x1.jpg", 
+          "id": 488897, 
+          "lyrics_owner_id": 172030, 
+          "lyrics_state": "complete", 
+          "path": "/Donaeo-oi-mate-lyrics", 
+          "primary_artist": {
+            "api_path": "/artists/23878", 
+            "header_image_url": "https://images.genius.com/659730bd996a8032edcc04d7ae51a350.700x700x1.jpg", 
+            "id": 23878, 
+            "image_url": "https://images.genius.com/af0a8f93122edc2c900f713541982049.700x700x1.jpg", 
+            "iq": 199, 
+            "is_meme_verified": false, 
+            "is_verified": true, 
+            "name": "Donae'O", 
+            "url": "https://genius.com/artists/Donaeo"
+          }, 
+          "pyongs_count": 5, 
+          "song_art_image_thumbnail_url": "https://images.genius.com/a26fa175ba2a055fea66ec26700c06ea.300x300x1.jpg", 
+          "stats": {
+            "hot": false, 
+            "unreviewed_annotations": 8
+          }, 
+          "title": "Oi Mate", 
+          "title_with_featured": "Oi Mate (Ft.\u00a0Youngs\u00a0Teflon)", 
+          "url": "https://genius.com/Donaeo-oi-mate-lyrics"
+        }, 
+        "type": "song"
+      }
+    ]
+  }
+}

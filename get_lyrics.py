@@ -31,6 +31,7 @@ if __name__ == '__main__':
     sample_song = 'girl gone wild'
 
     API_HOST = 'https://api.genius.com'
+    HOST = 'https://genius.com'
     SEARCH_ENDPOINT = '%s/search' % API_HOST
     SONGS_ENDPOINT = '%s/songs' % API_HOST
 
@@ -64,15 +65,18 @@ if __name__ == '__main__':
         results_filtered = filter(lambda x: by_search_str(x, params['q']),
                                   search_results)
         if results_filtered:
-            item = results_filtered[0]
-            kw = {
-                'endpoint': SONGS_ENDPOINT,
-                'song_id': item['result']['id']
-            }
-            response = requests.get('{endpoint}/{song_id}'.format(**kw),
-                                    headers=headers,
-                                    params={'text_format': 'plain'})
-            print json.dumps(response.json(), indent=2, sort_keys=True)
+            # item = results_filtered[0]
+            # kw = {
+                # 'endpoint': SONGS_ENDPOINT,
+                # 'song_id': item['result']['id']
+            # }
+            # response = requests.get('{endpoint}/{song_id}'.format(**kw),
+                                    # headers=headers,
+                                    # params={'text_format': 'plain'})
+            # if response.ok:
+            path = results_filtered[0]['result']['path']
+            url = '{host}{path}'.format(host=HOST, path=path)
+            print url
         else:
             # TODO
             print 'NOT FOUND'

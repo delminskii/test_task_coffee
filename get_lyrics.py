@@ -5,6 +5,7 @@ import sys
 import os
 import json
 import argparse
+from time import time as ts
 import requests
 from bs4 import BeautifulSoup as BS4
 
@@ -67,12 +68,26 @@ def main():
     HOST = 'https://genius.com'
     SEARCH_ENDPOINT = '%s/search' % API_HOST
 
+    # defines mandatory and optional arguments here
+    parser = argparse.ArgumentParser(
+        description='Script to get lyrics for song from genius.com')
+    parser.add_argument('song',
+                        default='Rick Astley Never Gonna Give You Up',
+                        help='Defines a song to search lyrics for')
+    parser.add_argument('--output',
+                        '-o',
+                        default='/tmp/%s_%s.txt' % (__file__, int(ts())),
+                        help='Defines an output file to save lyrics on a disk')
+    args = parser.parse_args()
+
     # make sure we have everything needed making requests to genius.com
     required = (ACCESS_TOKEN, )
     if any(x is None for x in required):
         messages = list()
         if ACCESS_TOKEN is None:
             messages.append('Something\'s wrong with Client Access Token')
+
+        # add other checks for `required` tuple here...
 
         print '\n'.join(messages)
         sys.exit(1)
@@ -81,7 +96,7 @@ def main():
     headers = {'Authorization': 'Bearer %s' % ACCESS_TOKEN}
 
     # params for a GET request
-    params = {'q': 'madonna girl gone wild'}
+    params = {'q': args.song}
 
     response = requests.get(SEARCH_ENDPOINT, headers=headers, params=params)
     if response.ok:
@@ -90,7 +105,7 @@ def main():
         # there're multiple search results sent be their server, so
         # we have to filter them and to look for interesting one for us
         search_results = json_response['response']['hits']
-        results_filtered = filter(lambda x: by_search_str(x, params['q']),
+        results_filtered = filter(lambda x: by_search_str(x, args.song),
                                   search_results)
         if results_filtered:
             path = results_filtered[0]['result']['path']
@@ -98,11 +113,12 @@ def main():
             lyrics = get_lyrics(url)
             if lyrics:
                 print lyrics
-
                 try:
-
-                except IOError:
-
+                    with open(args.output, 'w') as fp:
+                        fp.write(lyrics)
+                except IOError as e:
+                    print 'Can\'t write lyrics to disk at %s' % args.output
+                    raise e
         else:
             print 'It semms like song was not found'
     else:

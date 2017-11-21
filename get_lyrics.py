@@ -11,6 +11,7 @@ from itertools import imap
 from itertools import ifilter
 from itertools import izip
 import requests
+from bs4 import BeautifulSoup as BS4
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -20,6 +21,30 @@ def by_search_str(item, search_str):
     lowered = map(str.strip, search_str.split(' '))
     full_title = str(item['result']['full_title']).lower().strip()
     return all(x in full_title for x in lowered)
+
+
+def get_lyrics(url, bs4_backend='lxml'):
+    response = requests.get(url)
+    if not response.ok:
+        # TODO
+        return str()
+
+    # we use lxml instead of default html.parser
+    # because it's faster
+    soup = BS4(response.text, bs4_backend)
+    page_data = soup.select_one('meta[itemprop=page_data]')
+
+    if not page_data:
+        # TODO
+        return str()
+
+    json_value = json.loads(page_data['content'])
+    markup = json_value['lyrics_data']['body']['html']
+
+    # remove all script tags
+    # [s.extract() for s in soup.select('script')]
+
+    return BS4(markup, bs4_backend).text.strip()
 
 
 if __name__ == '__main__':
@@ -65,18 +90,14 @@ if __name__ == '__main__':
         results_filtered = filter(lambda x: by_search_str(x, params['q']),
                                   search_results)
         if results_filtered:
-            # item = results_filtered[0]
-            # kw = {
-                # 'endpoint': SONGS_ENDPOINT,
-                # 'song_id': item['result']['id']
-            # }
-            # response = requests.get('{endpoint}/{song_id}'.format(**kw),
-                                    # headers=headers,
-                                    # params={'text_format': 'plain'})
-            # if response.ok:
             path = results_filtered[0]['result']['path']
             url = '{host}{path}'.format(host=HOST, path=path)
-            print url
+            lyrics = get_lyrics(url)
+            if lyrics:
+
+            else:
+                # TODO
+                pass
         else:
             # TODO
             print 'NOT FOUND'

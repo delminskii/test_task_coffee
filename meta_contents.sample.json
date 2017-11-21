@@ -1,0 +1,1690 @@
+{
+  "annotation_previews": [
+    {
+      "body": "The Roland model 808 drum machine was an iconic early drum machine used widely on electronic, house, and hip-hop records.", 
+      "brand": null, 
+      "classification": "featured", 
+      "cosigned_by": [], 
+      "id": 4622290, 
+      "referent_id": 4622290, 
+      "verified_by": null
+    }
+  ], 
+  "answered_pending_question_count": 0, 
+  "chartbeat": {
+    "authors": "Madonna", 
+    "sections": "songs,tag:pop", 
+    "title": "Madonna \u2013 Girl Gone Wild Lyrics | Genius Lyrics"
+  }, 
+  "controller_and_action": "songs#show", 
+  "default_questions": [], 
+  "dfp_kv": [
+    {
+      "name": "song_id", 
+      "values": [
+        "69129"
+      ]
+    }, 
+    {
+      "name": "song_title", 
+      "values": [
+        "Girl Gone Wild"
+      ]
+    }, 
+    {
+      "name": "artist_id", 
+      "values": [
+        "276"
+      ]
+    }, 
+    {
+      "name": "artist_name", 
+      "values": [
+        "Madonna"
+      ]
+    }, 
+    {
+      "name": "is_explicit", 
+      "values": [
+        "true"
+      ]
+    }, 
+    {
+      "name": "pageviews", 
+      "values": [
+        "8736"
+      ]
+    }, 
+    {
+      "name": "primary_tag_id", 
+      "values": [
+        "16"
+      ]
+    }, 
+    {
+      "name": "song_tier", 
+      "values": [
+        "E"
+      ]
+    }, 
+    {
+      "name": "topic", 
+      "values": []
+    }, 
+    {
+      "name": "in_top_10", 
+      "values": [
+        "false"
+      ]
+    }, 
+    {
+      "name": "template", 
+      "values": [
+        "song"
+      ]
+    }, 
+    {
+      "name": "environment", 
+      "values": [
+        "production"
+      ]
+    }, 
+    {
+      "name": "platform", 
+      "values": [
+        "web"
+      ]
+    }
+  ], 
+  "featured_question": null, 
+  "header_bid_placements": [
+    [
+      "desktop_song_leaderboard", 
+      "desktop_song_leaderboard"
+    ], 
+    [
+      "desktop_song_sidebar_top", 
+      "desktop_song_sidebar_top"
+    ], 
+    [
+      "desktop_song_medium1", 
+      "song_page_sidebar"
+    ]
+  ], 
+  "krux_data_layer": {
+    "page": {
+      "albums": [
+        "MDNA", 
+        "MDNA World Tour"
+      ], 
+      "artists": [
+        "Madonna"
+      ], 
+      "genres": [
+        "Pop Genius"
+      ], 
+      "type": "song"
+    }
+  }, 
+  "lyrics_data": {
+    "body": {
+      "html": "<p>[Intro]<br>\n<a href=\"/Madonna-girl-gone-wild-lyrics#note-655105\" data-id=\"655105\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"655105\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"unreviewed\" image=\"false\" pending-editorial-actions-count=\"0\" possibly-branded=\"false\">Oh my God<br>\nI am heartly sorry for having offended thee<br>\nAnd I detest all my sins<br>\nBecause I drank the loss of heaven and the pain of hell<br>\nBut most of all, because I love thee<br>\nAnd I want so badly to be good</a><br>\n<br>\n[Verse 1]<br>\nIt's so hypnotic<br>\nThe way he pulls on me<br>\nIt's like the force of gravity right up under my feet<br>\nIt's so erotic<br>\nThis feeling can't be beat<br>\nIt's coursing through my whole body, feel the heat<br>\n<br>\n[Pre-Chorus]<br>\nI got that burnin' hot desire<br>\nAnd no one can put out my fire<br>\nIt's coming right down through the wire<br>\nHere it comes<br>\nWhen I hear them <a href=\"/Madonna-girl-gone-wild-lyrics#note-4622290\" data-id=\"4622290\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"4622290\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"accepted\" image=\"false\" pending-editorial-actions-count=\"0\" possibly-branded=\"false\">808 drums</a><br>\nIt's got me singing<br>\n<br>\n[Chorus]<br>\nHey-ey-ey-ey-ey-ey<br>\nLike a girl gone wild, a good girl gone wild<br>\nI'm like, ey-ey-ey-ey-ey-ey<br>\nLike a girl gone wild, a good girl gone wild<br>\n<a href=\"/Madonna-girl-gone-wild-lyrics#note-3483770\" data-id=\"3483770\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"3483770\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"unreviewed\" image=\"false\" pending-editorial-actions-count=\"2\" possibly-branded=\"false\">Girls, they just wanna have some fun</a><br>\nGet fired up like smokin' gun<br>\nOn the floor, 'til the daylight comes<br>\nGirls, they just wanna have some fun<br>\n<br>\n[Interlude]<br>\nLike a girl gone wild, a good girl gone wild<br>\nI'm like a girl gone wild, a good girl gone wild<br>\n<br>\n[Verse 2]<br>\nThe room is spinning<br>\nIt must be the <a href=\"/Madonna-girl-gone-wild-lyrics#note-11755879\" data-id=\"11755879\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"11755879\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"unreviewed\" image=\"false\" pending-editorial-actions-count=\"0\" possibly-branded=\"false\">tanqueray</a><br>\nI'm about to go astray<br>\nMy inhibition's gone away<br>\nI feel like sinning<br>\n<a href=\"/Madonna-girl-gone-wild-lyrics#note-2236154\" data-id=\"2236154\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"2236154\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"accepted\" image=\"false\" pending-editorial-actions-count=\"0\" possibly-branded=\"false\">You got me in the zone<br>\nDJ play my favorite song</a><br>\nTurn me on<br>\n<br>\n[Pre-Chorus]<br>\nI got that burnin' hot desire<br>\nAnd no one can put out my fire<br>\nIt's coming right down through the wire<br>\nHere it comes<br>\nWhen I hear them <a href=\"/Madonna-girl-gone-wild-lyrics#note-4622290\" data-id=\"4622290\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"4622290\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"accepted\" image=\"false\" pending-editorial-actions-count=\"0\" possibly-branded=\"false\">808 drums</a><br>\nIt's got me singing<br>\n<br>\n[Chorus]<br>\nHey-ey-ey-ey-ey-ey<br>\nLike a girl gone wild, a good girl gone wild<br>\nI'm like, ey-ey-ey-ey-ey-ey<br>\nLike a girl gone wild, a good girl gone wild<br>\n<a href=\"/Madonna-girl-gone-wild-lyrics#note-3483770\" data-id=\"3483770\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"3483770\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"unreviewed\" image=\"false\" pending-editorial-actions-count=\"2\" possibly-branded=\"false\">Girls, they just wanna have some fun</a><br>\nGet fired up like smokin' gun<br>\nOn the floor, 'til the daylight comes<br>\nGirls, they just wanna have some fun<br>\n<br>\n[Bridge]<br>\nI know, I know, I know I shouldn't act this way<br>\nI know, I know, I know good girls don't misbehave<br>\nMisbehave<br>\nBut I'm a bad girl anyway<br>\nForgive me<br>\n<br>\n[Chorus]<br>\nHey-ey-ey-ey-ey-ey<br>\nLike a girl gone wild, a good girl gone wild<br>\nI'm like, ey-ey-ey-ey-ey-ey<br>\nLike a girl gone wild, a good girl gone wild<br>\n<a href=\"/Madonna-girl-gone-wild-lyrics#note-3483770\" data-id=\"3483770\" class=\"referent\" ng-click=\"open()\" ng-class=\"{\n          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),\n          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),\n          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)\n        }\" prevent-default-click=\"\" annotation-fragment=\"3483770\" on-hover-with-no-digest=\"set_current_hover_and_digest(hover ? fragment_id : undefined)\" classification=\"unreviewed\" image=\"false\" pending-editorial-actions-count=\"2\" possibly-branded=\"false\">Girls, they just wanna have some fun</a><br>\nGet fired up like smokin' gun<br>\nOn the floor, 'til the daylight comes<br>\nGirls, they just wanna have some fun<br>\n<br>\n[Outro]<br>\nLike a girl gone wild, a good girl gone wild<br>\nI'm like a girl gone wild, a good girl gone wild</p>\n\n"
+    }, 
+    "client_timestamps": {
+      "lyrics_updated_at": 1493564320, 
+      "updated_by_human_at": 1496227847
+    }
+  }, 
+  "next_track": {
+    "number": 2, 
+    "song": {
+      "_type": "song", 
+      "annotation_count": 7, 
+      "api_path": "/songs/212743", 
+      "full_title": "Gang Bang by\u00a0Madonna", 
+      "header_image_thumbnail_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.300x300x1.jpg", 
+      "header_image_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.1000x1000x1.jpg", 
+      "id": 212743, 
+      "instrumental": false, 
+      "lyrics_owner_id": 277194, 
+      "lyrics_state": "complete", 
+      "lyrics_updated_at": 1507596019, 
+      "path": "/Madonna-gang-bang-lyrics", 
+      "primary_artist": {
+        "_type": "artist", 
+        "api_path": "/artists/276", 
+        "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+        "id": 276, 
+        "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+        "index_character": "m", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Madonna", 
+        "slug": "Madonna", 
+        "url": "https://genius.com/artists/Madonna"
+      }, 
+      "pyongs_count": 5, 
+      "song_art_image_thumbnail_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.300x300x1.jpg", 
+      "stats": {
+        "hot": false, 
+        "unreviewed_annotations": 0
+      }, 
+      "title": "Gang Bang", 
+      "title_with_featured": "Gang Bang", 
+      "updated_by_human_at": 1507596019, 
+      "url": "https://genius.com/Madonna-gang-bang-lyrics"
+    }
+  }, 
+  "page_type": "song", 
+  "path": "/Madonna-girl-gone-wild-lyrics", 
+  "pending_question_count": 0, 
+  "pinned_questions": [], 
+  "preloaded_referents": [
+    {
+      "_type": "referent", 
+      "annotatable": {
+        "_type": "song", 
+        "api_path": "/songs/69129", 
+        "client_timestamps": {
+          "lyrics_updated_at": 1493564320, 
+          "updated_by_human_at": 1496227847
+        }, 
+        "context": "Madonna", 
+        "id": 69129, 
+        "image_url": "https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg", 
+        "link_title": "Girl Gone Wild by\u00a0Madonna", 
+        "title": "Girl Gone Wild", 
+        "type": "Song", 
+        "url": "https://genius.com/Madonna-girl-gone-wild-lyrics"
+      }, 
+      "annotations": [
+        {
+          "_type": "annotation", 
+          "accepted_by": null, 
+          "api_path": "/annotations/655105", 
+          "authors": [
+            {
+              "_type": "user_attribution", 
+              "attribution": 0.8225806451612904, 
+              "pinned_role": null, 
+              "user": {
+                "_type": "user", 
+                "about_me_summary": "I practice this like a sport\nMet Donald Trump and he froze up\nStanding on his Bentley\nYelling \u201cpimps down, hoes up!\u201d\n\n-The Coup", 
+                "api_path": "/users/6706", 
+                "avatar": {
+                  "medium": {
+                    "bounding_box": {
+                      "height": 400, 
+                      "width": 300
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288147_6706_download.jpeg"
+                  }, 
+                  "small": {
+                    "bounding_box": {
+                      "height": 100, 
+                      "width": 100
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288147_6706_download.jpeg"
+                  }, 
+                  "thumb": {
+                    "bounding_box": {
+                      "height": 32, 
+                      "width": 32
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288147_6706_download.jpeg"
+                  }, 
+                  "tiny": {
+                    "bounding_box": {
+                      "height": 16, 
+                      "width": 16
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/6706_download.jpeg"
+                  }
+                }, 
+                "current_user_metadata": {
+                  "excluded_permissions": [
+                    "follow"
+                  ], 
+                  "features": [], 
+                  "interactions": {
+                    "following": false
+                  }, 
+                  "permissions": []
+                }, 
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288147_6706_download.jpeg", 
+                "human_readable_role_for_display": "Contributor", 
+                "id": 6706, 
+                "iq": 17670, 
+                "is_meme_verified": false, 
+                "is_verified": false, 
+                "login": "NicoleWitte", 
+                "name": "Nicole Witte", 
+                "role_for_display": "contributor", 
+                "url": "https://genius.com/NicoleWitte"
+              }
+            }, 
+            {
+              "_type": "user_attribution", 
+              "attribution": 0.1774193548387097, 
+              "pinned_role": null, 
+              "user": {
+                "_type": "user", 
+                "about_me_summary": "", 
+                "api_path": "/users/319546", 
+                "avatar": {
+                  "medium": {
+                    "bounding_box": {
+                      "height": 400, 
+                      "width": 300
+                    }, 
+                    "url": "https://assets.genius.com/images/default_avatar_300.png?1511275790"
+                  }, 
+                  "small": {
+                    "bounding_box": {
+                      "height": 100, 
+                      "width": 100
+                    }, 
+                    "url": "https://assets.genius.com/images/default_avatar_100.png?1511275790"
+                  }, 
+                  "thumb": {
+                    "bounding_box": {
+                      "height": 32, 
+                      "width": 32
+                    }, 
+                    "url": "https://assets.genius.com/images/default_avatar_32.png?1511275790"
+                  }, 
+                  "tiny": {
+                    "bounding_box": {
+                      "height": 16, 
+                      "width": 16
+                    }, 
+                    "url": "https://assets.genius.com/images/default_avatar_16.png?1511275790"
+                  }
+                }, 
+                "current_user_metadata": {
+                  "excluded_permissions": [
+                    "follow"
+                  ], 
+                  "features": [], 
+                  "interactions": {
+                    "following": false
+                  }, 
+                  "permissions": []
+                }, 
+                "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+                "human_readable_role_for_display": null, 
+                "id": 319546, 
+                "iq": 71, 
+                "is_meme_verified": false, 
+                "is_verified": false, 
+                "login": "carmencaracol", 
+                "name": "carmencaracol", 
+                "role_for_display": null, 
+                "url": "https://genius.com/carmencaracol"
+              }
+            }
+          ], 
+          "being_created": false, 
+          "body": {
+            "html": "<p>A version of the Catholic <a href=\"http://en.wikipedia.org/wiki/Act_of_Contrition\" rel=\"nofollow\">Act of Contrition</a> prayer.</p>\n\n<p>The <a href=\"https://genius.com/albums/Madonna/Like-a-prayer\" data-api_path=\"/albums/43941\">Like A Prayer</a> album also contained a version of the final track, appropriately titled <a href=\"http://pop.genius.com/Madonna-act-of-contrition-lyrics\" data-api_path=\"/songs/317062\">\u201cAct of Contrition</a></p>\n\n<p><img src=\"https://images.rapgenius.com/70c4f31b808b707665d230223e97dc99.900x900x1.jpg\" alt=\"\" width=\"900\" height=\"900\" data-animated=\"false\"></p>", 
+            "markdown": "A version of the Catholic [Act of Contrition](http://en.wikipedia.org/wiki/Act_of_Contrition) prayer.\n\nThe [Like A Prayer](/albums/Madonna/Like-a-prayer) album also contained a version of the final track, appropriately titled [\"Act of Contrition](http://pop.genius.com/Madonna-act-of-contrition-lyrics)\n\nhttp://images.rapgenius.com/70c4f31b808b707665d230223e97dc99.900x900x1.jpg", 
+            "plain": "A version of the Catholic Act of Contrition prayer.\n\nThe Like A Prayer album also contained a version of the final track, appropriately titled \u201cAct of Contrition"
+          }, 
+          "brand": null, 
+          "comment_count": 0, 
+          "community": true, 
+          "cosigned_by": [], 
+          "created_at": 1332553267, 
+          "created_by": {
+            "_type": "user", 
+            "about_me_summary": "I practice this like a sport\nMet Donald Trump and he froze up\nStanding on his Bentley\nYelling \u201cpimps down, hoes up!\u201d\n\n-The Coup", 
+            "api_path": "/users/6706", 
+            "avatar": {
+              "medium": {
+                "bounding_box": {
+                  "height": 400, 
+                  "width": 300
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288147_6706_download.jpeg"
+              }, 
+              "small": {
+                "bounding_box": {
+                  "height": 100, 
+                  "width": 100
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288147_6706_download.jpeg"
+              }, 
+              "thumb": {
+                "bounding_box": {
+                  "height": 32, 
+                  "width": 32
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288147_6706_download.jpeg"
+              }, 
+              "tiny": {
+                "bounding_box": {
+                  "height": 16, 
+                  "width": 16
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/6706_download.jpeg"
+              }
+            }, 
+            "current_user_metadata": {
+              "excluded_permissions": [
+                "follow"
+              ], 
+              "features": [], 
+              "interactions": {
+                "following": false
+              }, 
+              "permissions": []
+            }, 
+            "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288147_6706_download.jpeg", 
+            "human_readable_role_for_display": "Contributor", 
+            "id": 6706, 
+            "iq": 17670, 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "login": "NicoleWitte", 
+            "name": "Nicole Witte", 
+            "role_for_display": "contributor", 
+            "url": "https://genius.com/NicoleWitte"
+          }, 
+          "current_user_metadata": {
+            "excluded_permissions": [
+              "vote", 
+              "edit", 
+              "cosign", 
+              "uncosign", 
+              "destroy", 
+              "accept", 
+              "reject", 
+              "see_unreviewed", 
+              "clear_votes", 
+              "propose_edit_to", 
+              "pin_to_profile", 
+              "unpin_from_profile", 
+              "update_source", 
+              "set_brand", 
+              "clear_brand", 
+              "edit_custom_preview"
+            ], 
+            "interactions": {
+              "cosign": false, 
+              "pyong": false, 
+              "vote": null
+            }, 
+            "iq_by_action": {}, 
+            "permissions": [
+              "create_comment"
+            ]
+          }, 
+          "custom_preview": null, 
+          "deleted": false, 
+          "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/655105/standalone_embed'><a href='https://genius.com/655105/Madonna-girl-gone-wild/Oh-my-god-i-am-heartly-sorry-for-having-offended-thee-and-i-detest-all-my-sins-because-i-drank-the-loss-of-heaven-and-the-pain-of-hell-but-most-of-all-because-i-love-thee-and-i-want-so-badly-to-be-good'>Oh my God&lt;br&gt; I am heartly sorry for having offended thee&lt;br&gt; And I detest all my sins&lt;br&gt; Because I drank the loss of heaven and the pain of hell&lt;br&gt; But most of all, because I love thee&lt;br&gt; And I want so badly to be good</a><br><a href='https://genius.com/Madonna-girl-gone-wild-lyrics'>&#8213; Madonna \u2013 Girl Gone Wild</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>", 
+          "has_voters": true, 
+          "id": 655105, 
+          "needs_exegesis": false, 
+          "pinned": false, 
+          "proposed_edit_count": 0, 
+          "pyongs_count": null, 
+          "referent_id": 655105, 
+          "share_url": "https://genius.com/655105", 
+          "source": null, 
+          "state": "pending", 
+          "top_comment": null, 
+          "twitter_share_message": "\u201cA version of the Catholic Act of Contrition prayer.\n\nThe Like A Prayer album also contained a version of\u2026\u201d \u2014@Genius", 
+          "url": "https://genius.com/655105/Madonna-girl-gone-wild/Oh-my-god-i-am-heartly-sorry-for-having-offended-thee-and-i-detest-all-my-sins-because-i-drank-the-loss-of-heaven-and-the-pain-of-hell-but-most-of-all-because-i-love-thee-and-i-want-so-badly-to-be-good", 
+          "verified": false, 
+          "verified_by": null, 
+          "votes_total": 5
+        }
+      ], 
+      "annotator_id": 6706, 
+      "annotator_login": "NicoleWitte", 
+      "api_path": "/referents/655105", 
+      "classification": "unreviewed", 
+      "current_user_metadata": {
+        "excluded_permissions": [
+          "add_pinned_annotation_to", 
+          "add_community_annotation_to"
+        ], 
+        "permissions": [], 
+        "relationships": {}
+      }, 
+      "fragment": "Oh my God\n I am heartly sorry for having offended thee\n And I detest all my sins\n Because I drank the loss of heaven and the pain of hell\n But most of all, because I love thee\n And I want so badly to be good", 
+      "id": 655105, 
+      "ios_app_url": "genius://referents/655105", 
+      "is_description": false, 
+      "is_image": false, 
+      "path": "/655105/Madonna-girl-gone-wild/Oh-my-god-i-am-heartly-sorry-for-having-offended-thee-and-i-detest-all-my-sins-because-i-drank-the-loss-of-heaven-and-the-pain-of-hell-but-most-of-all-because-i-love-thee-and-i-want-so-badly-to-be-good", 
+      "range": {
+        "content": "Oh my God\n I am heartly sorry for having offended thee\n And I detest all my sins\n Because I drank the loss of heaven and the pain of hell\n But most of all, because I love thee\n And I want so badly to be good"
+      }, 
+      "song_id": 69129, 
+      "tracking_paths": {
+        "aggregate": "/655105/Madonna-girl-gone-wild/Oh-my-god-i-am-heartly-sorry-for-having-offended-thee-and-i-detest-all-my-sins-because-i-drank-the-loss-of-heaven-and-the-pain-of-hell-but-most-of-all-because-i-love-thee-and-i-want-so-badly-to-be-good", 
+        "concurrent": "/Madonna-girl-gone-wild-lyrics"
+      }, 
+      "twitter_share_message": "\u201cA version of the Catholic Act of Contrition prayer.\n\nThe Like A Prayer album also contained a ve\u2026\u201d \u2014@Genius", 
+      "url": "https://genius.com/655105/Madonna-girl-gone-wild/Oh-my-god-i-am-heartly-sorry-for-having-offended-thee-and-i-detest-all-my-sins-because-i-drank-the-loss-of-heaven-and-the-pain-of-hell-but-most-of-all-because-i-love-thee-and-i-want-so-badly-to-be-good", 
+      "verified_annotator_ids": []
+    }
+  ], 
+  "primary_album_tracks": [
+    {
+      "_type": "album_appearance", 
+      "number": 1, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/69129", 
+        "id": 69129, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-girl-gone-wild-lyrics", 
+        "title": "Girl Gone Wild", 
+        "url": "https://genius.com/Madonna-girl-gone-wild-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 2, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/212743", 
+        "id": 212743, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-gang-bang-lyrics", 
+        "title": "Gang Bang", 
+        "url": "https://genius.com/Madonna-gang-bang-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 3, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/87039", 
+        "id": 87039, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-im-addicted-lyrics", 
+        "title": "I'm Addicted", 
+        "url": "https://genius.com/Madonna-im-addicted-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 4, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/266859", 
+        "id": 266859, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-turn-up-the-radio-lyrics", 
+        "title": "Turn Up the Radio", 
+        "url": "https://genius.com/Madonna-turn-up-the-radio-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 5, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/64924", 
+        "id": 64924, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-give-me-all-your-luvin-lyrics", 
+        "title": "Give Me All Your Luvin'", 
+        "url": "https://genius.com/Madonna-give-me-all-your-luvin-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 6, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/318073", 
+        "id": 318073, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-some-girls-lyrics", 
+        "title": "Some Girls", 
+        "url": "https://genius.com/Madonna-some-girls-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 7, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/212746", 
+        "id": 212746, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-superstar-lyrics", 
+        "title": "Superstar", 
+        "url": "https://genius.com/Madonna-superstar-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 8, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/68743", 
+        "id": 68743, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-i-dont-give-a-lyrics", 
+        "title": "I Don't Give A", 
+        "url": "https://genius.com/Madonna-i-dont-give-a-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 9, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/266869", 
+        "id": 266869, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-im-a-sinner-lyrics", 
+        "title": "I'm a Sinner", 
+        "url": "https://genius.com/Madonna-im-a-sinner-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 10, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/81593", 
+        "id": 81593, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-love-spent-lyrics", 
+        "title": "Love Spent", 
+        "url": "https://genius.com/Madonna-love-spent-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 11, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/318084", 
+        "id": 318084, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-masterpiece-lyrics", 
+        "title": "Masterpiece", 
+        "url": "https://genius.com/Madonna-masterpiece-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 12, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/212747", 
+        "id": 212747, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-falling-free-lyrics", 
+        "title": "Falling Free", 
+        "url": "https://genius.com/Madonna-falling-free-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 13, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/267341", 
+        "id": 267341, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-beautiful-killer-lyrics", 
+        "title": "Beautiful Killer", 
+        "url": "https://genius.com/Madonna-beautiful-killer-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 14, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/266863", 
+        "id": 266863, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-i-fucked-up-lyrics", 
+        "title": "I Fucked Up", 
+        "url": "https://genius.com/Madonna-i-fucked-up-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 15, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/266874", 
+        "id": 266874, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-b-day-song-lyrics", 
+        "title": "B-Day Song", 
+        "url": "https://genius.com/Madonna-b-day-song-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 16, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/227421", 
+        "id": 227421, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-best-friend-lyrics", 
+        "title": "Best Friend", 
+        "url": "https://genius.com/Madonna-best-friend-lyrics"
+      }
+    }, 
+    {
+      "_type": "album_appearance", 
+      "number": 17, 
+      "song": {
+        "_type": "song", 
+        "api_path": "/songs/318173", 
+        "id": 318173, 
+        "lyrics_state": "complete", 
+        "path": "/Madonna-give-me-all-your-lovin-party-rock-remix-lyrics", 
+        "title": "Give Me All Your Lovin' (Party Rock Remix)", 
+        "url": "https://genius.com/Madonna-give-me-all-your-lovin-party-rock-remix-lyrics"
+      }
+    }
+  ], 
+  "probably_spam": false, 
+  "recirculated_content": [], 
+  "show_edit_form": false, 
+  "show_featured_question": false, 
+  "song": {
+    "_type": "song", 
+    "album": {
+      "_type": "album", 
+      "api_path": "/albums/14693", 
+      "artist": {
+        "_type": "artist", 
+        "api_path": "/artists/276", 
+        "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+        "id": 276, 
+        "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+        "index_character": "m", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Madonna", 
+        "slug": "Madonna", 
+        "url": "https://genius.com/artists/Madonna"
+      }, 
+      "cover_art_thumbnail_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.300x300x1.jpg", 
+      "cover_art_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.1000x1000x1.jpg", 
+      "full_title": "MDNA by Madonna", 
+      "id": 14693, 
+      "name": "MDNA", 
+      "name_with_artist": "MDNA (artist: Madonna)", 
+      "release_date_components": {
+        "day": 23, 
+        "month": 3, 
+        "year": 2012
+      }, 
+      "url": "https://genius.com/albums/Madonna/Mdna"
+    }, 
+    "albums": [
+      {
+        "_type": "album", 
+        "api_path": "/albums/14693", 
+        "artist": {
+          "_type": "artist", 
+          "api_path": "/artists/276", 
+          "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+          "id": 276, 
+          "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+          "index_character": "m", 
+          "is_meme_verified": false, 
+          "is_verified": false, 
+          "name": "Madonna", 
+          "slug": "Madonna", 
+          "url": "https://genius.com/artists/Madonna"
+        }, 
+        "cover_art_thumbnail_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.300x300x1.jpg", 
+        "cover_art_url": "https://images.genius.com/4b5e10aba1545f267154f423f6e62b11.1000x1000x1.jpg", 
+        "full_title": "MDNA by Madonna", 
+        "id": 14693, 
+        "name": "MDNA", 
+        "name_with_artist": "MDNA (artist: Madonna)", 
+        "release_date_components": {
+          "day": 23, 
+          "month": 3, 
+          "year": 2012
+        }, 
+        "url": "https://genius.com/albums/Madonna/Mdna"
+      }, 
+      {
+        "_type": "album", 
+        "api_path": "/albums/165125", 
+        "artist": {
+          "_type": "artist", 
+          "api_path": "/artists/276", 
+          "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+          "id": 276, 
+          "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+          "index_character": "m", 
+          "is_meme_verified": false, 
+          "is_verified": false, 
+          "name": "Madonna", 
+          "slug": "Madonna", 
+          "url": "https://genius.com/artists/Madonna"
+        }, 
+        "cover_art_thumbnail_url": "https://images.genius.com/e8019351c3cdcf0104c005866188e0ed.300x300x1.jpg", 
+        "cover_art_url": "https://images.genius.com/e8019351c3cdcf0104c005866188e0ed.1000x1000x1.jpg", 
+        "full_title": "MDNA World Tour by Madonna", 
+        "id": 165125, 
+        "name": "MDNA World Tour", 
+        "name_with_artist": "MDNA World Tour (artist: Madonna)", 
+        "release_date_components": {
+          "day": null, 
+          "month": null, 
+          "year": 2013
+        }, 
+        "url": "https://genius.com/albums/Madonna/Mdna-world-tour"
+      }
+    ], 
+    "annotation_count": 6, 
+    "api_path": "/songs/69129", 
+    "comment_count": 0, 
+    "current_user_metadata": {
+      "excluded_permissions": [
+        "follow", 
+        "award_transcription_iq", 
+        "remove_transcription_iq", 
+        "pyong", 
+        "edit_lyrics", 
+        "view_annotation_engagement_data", 
+        "publish", 
+        "unpublish", 
+        "edit_spotify_details", 
+        "hide", 
+        "unhide", 
+        "toggle_featured_video", 
+        "add_pinned_annotation_to", 
+        "add_community_annotation_to", 
+        "destroy", 
+        "mark_as_not_spam", 
+        "edit_spotify_annotations_for", 
+        "verify_lyrics", 
+        "unverify_lyrics", 
+        "edit_anything", 
+        "edit_album_appearances", 
+        "edit_any_media", 
+        "edit", 
+        "rename", 
+        "edit_tags", 
+        "watch_fact_track", 
+        "reindex", 
+        "view_lyrics_synchronization", 
+        "enable_media", 
+        "disable_media", 
+        "edit_lyrics_or_annotation_brackets", 
+        "see_editorial_indicators", 
+        "view_attribution_visualization", 
+        "edit_youtube_url", 
+        "edit_soundcloud_url", 
+        "edit_spotify_uuid", 
+        "edit_apple_music_url", 
+        "edit_vevo_url", 
+        "moderate_annotations", 
+        "create_annotation", 
+        "see_short_id", 
+        "manage_chart_item", 
+        "create_tag"
+      ], 
+      "interactions": {
+        "following": false, 
+        "pyong": false
+      }, 
+      "iq_by_action": {}, 
+      "permissions": [
+        "see_pageviews", 
+        "create_comment"
+      ], 
+      "relationships": {}
+    }, 
+    "custom_header_image_url": "https://images.genius.com/e3cac3828f537e3ec45b968ebdb38eaa.1000x1000x1.jpg", 
+    "custom_performances": [], 
+    "custom_song_art_image_url": "https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg", 
+    "description": {
+      "html": "<p><img src=\"https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg\" alt=\"\" width=\"1000\" height=\"1000\" data-animated=\"false\"></p>\n\n<p>The Album is Madonna\u2019s 12th album which is called MDNA</p>\n\n<p>In this song she channels her younger self with erotic and sexy dance moves</p>", 
+      "markdown": "http://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg\n\n\n\n\nThe Album is Madonna's 12th album which is called MDNA\n\nIn this song she channels her younger self with erotic and sexy dance moves"
+    }, 
+    "description_annotation": {
+      "_type": "referent", 
+      "annotatable": {
+        "_type": "song", 
+        "api_path": "/songs/69129", 
+        "client_timestamps": {
+          "lyrics_updated_at": 1493564320, 
+          "updated_by_human_at": 1496227847
+        }, 
+        "context": "Madonna", 
+        "id": 69129, 
+        "image_url": "https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg", 
+        "link_title": "Girl Gone Wild by\u00a0Madonna", 
+        "title": "Girl Gone Wild", 
+        "type": "Song", 
+        "url": "https://genius.com/Madonna-girl-gone-wild-lyrics"
+      }, 
+      "annotations": [
+        {
+          "_type": "annotation", 
+          "accepted_by": {
+            "_type": "user", 
+            "about_me_summary": "", 
+            "api_path": "/users/76262", 
+            "avatar": {
+              "medium": {
+                "bounding_box": {
+                  "height": 400, 
+                  "width": 300
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289277_76262_Jury+duty.jpg"
+              }, 
+              "small": {
+                "bounding_box": {
+                  "height": 100, 
+                  "width": 100
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289278_76262_Jury+duty.jpg"
+              }, 
+              "thumb": {
+                "bounding_box": {
+                  "height": 32, 
+                  "width": 32
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289277_76262_Jury+duty.jpg"
+              }, 
+              "tiny": {
+                "bounding_box": {
+                  "height": 16, 
+                  "width": 16
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/76262_Jury+duty.jpg"
+              }
+            }, 
+            "current_user_metadata": {
+              "excluded_permissions": [
+                "follow"
+              ], 
+              "features": [], 
+              "interactions": {
+                "following": false
+              }, 
+              "permissions": []
+            }, 
+            "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289277_76262_Jury+duty.jpg", 
+            "human_readable_role_for_display": null, 
+            "id": 76262, 
+            "iq": 219, 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "login": "Drizzy_Drake12", 
+            "name": "Drizzy_Drake12", 
+            "role_for_display": null, 
+            "url": "https://genius.com/Drizzy_Drake12"
+          }, 
+          "api_path": "/annotations/3560718", 
+          "authors": [
+            {
+              "_type": "user_attribution", 
+              "attribution": 0.5555555555555556, 
+              "pinned_role": null, 
+              "user": {
+                "_type": "user", 
+                "about_me_summary": "", 
+                "api_path": "/users/1368057", 
+                "avatar": {
+                  "medium": {
+                    "bounding_box": {
+                      "height": 400, 
+                      "width": 300
+                    }, 
+                    "url": "https://images.rapgenius.com/avatars/medium/b1413c58ba9beb719c91fe868cbef559"
+                  }, 
+                  "small": {
+                    "bounding_box": {
+                      "height": 100, 
+                      "width": 100
+                    }, 
+                    "url": "https://images.rapgenius.com/avatars/small/b1413c58ba9beb719c91fe868cbef559"
+                  }, 
+                  "thumb": {
+                    "bounding_box": {
+                      "height": 32, 
+                      "width": 32
+                    }, 
+                    "url": "https://images.rapgenius.com/avatars/thumb/b1413c58ba9beb719c91fe868cbef559"
+                  }, 
+                  "tiny": {
+                    "bounding_box": {
+                      "height": 16, 
+                      "width": 16
+                    }, 
+                    "url": "https://images.rapgenius.com/avatars/tiny/b1413c58ba9beb719c91fe868cbef559"
+                  }
+                }, 
+                "current_user_metadata": {
+                  "excluded_permissions": [
+                    "follow"
+                  ], 
+                  "features": [], 
+                  "interactions": {
+                    "following": false
+                  }, 
+                  "permissions": []
+                }, 
+                "header_image_url": "https://images.rapgenius.com/avatars/medium/b1413c58ba9beb719c91fe868cbef559", 
+                "human_readable_role_for_display": "Contributor", 
+                "id": 1368057, 
+                "iq": 8703, 
+                "is_meme_verified": false, 
+                "is_verified": false, 
+                "login": "abickham13", 
+                "name": "abickham13", 
+                "role_for_display": "contributor", 
+                "url": "https://genius.com/abickham13"
+              }
+            }, 
+            {
+              "_type": "user_attribution", 
+              "attribution": 0.4444444444444444, 
+              "pinned_role": null, 
+              "user": {
+                "_type": "user", 
+                "about_me_summary": "", 
+                "api_path": "/users/76262", 
+                "avatar": {
+                  "medium": {
+                    "bounding_box": {
+                      "height": 400, 
+                      "width": 300
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289277_76262_Jury+duty.jpg"
+                  }, 
+                  "small": {
+                    "bounding_box": {
+                      "height": 100, 
+                      "width": 100
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289278_76262_Jury+duty.jpg"
+                  }, 
+                  "thumb": {
+                    "bounding_box": {
+                      "height": 32, 
+                      "width": 32
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289277_76262_Jury+duty.jpg"
+                  }, 
+                  "tiny": {
+                    "bounding_box": {
+                      "height": 16, 
+                      "width": 16
+                    }, 
+                    "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/76262_Jury+duty.jpg"
+                  }
+                }, 
+                "current_user_metadata": {
+                  "excluded_permissions": [
+                    "follow"
+                  ], 
+                  "features": [], 
+                  "interactions": {
+                    "following": false
+                  }, 
+                  "permissions": []
+                }, 
+                "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289277_76262_Jury+duty.jpg", 
+                "human_readable_role_for_display": null, 
+                "id": 76262, 
+                "iq": 219, 
+                "is_meme_verified": false, 
+                "is_verified": false, 
+                "login": "Drizzy_Drake12", 
+                "name": "Drizzy_Drake12", 
+                "role_for_display": null, 
+                "url": "https://genius.com/Drizzy_Drake12"
+              }
+            }
+          ], 
+          "being_created": false, 
+          "body": {
+            "html": "<p><img src=\"https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg\" alt=\"\" width=\"1000\" height=\"1000\" data-animated=\"false\"></p>\n\n<p>The Album is Madonna\u2019s 12th album which is called MDNA</p>\n\n<p>In this song she channels her younger self with erotic and sexy dance moves</p>", 
+            "markdown": "http://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg\n\n\n\n\nThe Album is Madonna's 12th album which is called MDNA\n\nIn this song she channels her younger self with erotic and sexy dance moves"
+          }, 
+          "brand": null, 
+          "comment_count": 0, 
+          "community": true, 
+          "cosigned_by": [], 
+          "created_at": 1332553072, 
+          "created_by": {
+            "_type": "user", 
+            "about_me_summary": "", 
+            "api_path": "/users/76262", 
+            "avatar": {
+              "medium": {
+                "bounding_box": {
+                  "height": 400, 
+                  "width": 300
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289277_76262_Jury+duty.jpg"
+              }, 
+              "small": {
+                "bounding_box": {
+                  "height": 100, 
+                  "width": 100
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289278_76262_Jury+duty.jpg"
+              }, 
+              "thumb": {
+                "bounding_box": {
+                  "height": 32, 
+                  "width": 32
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289277_76262_Jury+duty.jpg"
+              }, 
+              "tiny": {
+                "bounding_box": {
+                  "height": 16, 
+                  "width": 16
+                }, 
+                "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/76262_Jury+duty.jpg"
+              }
+            }, 
+            "current_user_metadata": {
+              "excluded_permissions": [
+                "follow"
+              ], 
+              "features": [], 
+              "interactions": {
+                "following": false
+              }, 
+              "permissions": []
+            }, 
+            "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289277_76262_Jury+duty.jpg", 
+            "human_readable_role_for_display": null, 
+            "id": 76262, 
+            "iq": 219, 
+            "is_meme_verified": false, 
+            "is_verified": false, 
+            "login": "Drizzy_Drake12", 
+            "name": "Drizzy_Drake12", 
+            "role_for_display": null, 
+            "url": "https://genius.com/Drizzy_Drake12"
+          }, 
+          "current_user_metadata": {
+            "excluded_permissions": [
+              "vote", 
+              "edit", 
+              "cosign", 
+              "uncosign", 
+              "destroy", 
+              "accept", 
+              "reject", 
+              "see_unreviewed", 
+              "clear_votes", 
+              "propose_edit_to", 
+              "pin_to_profile", 
+              "unpin_from_profile", 
+              "update_source", 
+              "set_brand", 
+              "clear_brand", 
+              "edit_custom_preview"
+            ], 
+            "interactions": {
+              "cosign": false, 
+              "pyong": false, 
+              "vote": null
+            }, 
+            "iq_by_action": {}, 
+            "permissions": [
+              "create_comment"
+            ]
+          }, 
+          "custom_preview": null, 
+          "deleted": false, 
+          "embed_content": "<blockquote class='rg_standalone_container' data-src='//genius.com/annotations/3560718/standalone_embed'><a href='https://genius.com/3560718/Madonna-girl-gone-wild/Girl-gone-wild'>Girl Gone Wild</a><br><a href='https://genius.com/Madonna-girl-gone-wild-lyrics'>&#8213; Madonna \u2013 Girl Gone Wild</a></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>", 
+          "has_voters": true, 
+          "id": 3560718, 
+          "needs_exegesis": false, 
+          "pinned": false, 
+          "proposed_edit_count": 0, 
+          "pyongs_count": null, 
+          "referent_id": 3560718, 
+          "share_url": "https://genius.com/3560718", 
+          "source": null, 
+          "state": "accepted", 
+          "top_comment": null, 
+          "twitter_share_message": "\u201cThe Album is Madonna\u2019s 12th album which is called MDNA\n\nIn this song she channels her younger self with \u2026\u201d \u2014@Genius", 
+          "url": "https://genius.com/3560718/Madonna-girl-gone-wild/Girl-gone-wild", 
+          "verified": false, 
+          "verified_by": null, 
+          "votes_total": 1
+        }
+      ], 
+      "annotator_id": 76262, 
+      "annotator_login": "Drizzy_Drake12", 
+      "api_path": "/referents/3560718", 
+      "classification": "accepted", 
+      "current_user_metadata": {
+        "excluded_permissions": [
+          "add_pinned_annotation_to", 
+          "add_community_annotation_to"
+        ], 
+        "permissions": [], 
+        "relationships": {}
+      }, 
+      "fragment": "Girl Gone Wild", 
+      "id": 3560718, 
+      "ios_app_url": "genius://referents/3560718", 
+      "is_description": true, 
+      "is_image": false, 
+      "path": "/3560718/Madonna-girl-gone-wild/Girl-gone-wild", 
+      "range": {
+        "content": "Girl Gone Wild"
+      }, 
+      "song_id": 69129, 
+      "tracking_paths": {
+        "aggregate": "/3560718/Madonna-girl-gone-wild/Girl-gone-wild", 
+        "concurrent": "/Madonna-girl-gone-wild-lyrics"
+      }, 
+      "twitter_share_message": "\u201cThe Album is Madonna\u2019s 12th album which is called MDNA\n\nIn this song she channels her younger se\u2026\u201d \u2014@Genius", 
+      "url": "https://genius.com/3560718/Madonna-girl-gone-wild/Girl-gone-wild", 
+      "verified_annotator_ids": []
+    }, 
+    "description_preview": "The Album is Madonna\u2019s 12th album which is called MDNA\n\nIn this song she channels her younger self with erotic and sexy dance moves", 
+    "embed_content": "<div id='rg_embed_link_69129' class='rg_embed_link' data-song-id='69129'>Read <a href='https://genius.com/Madonna-girl-gone-wild-lyrics'>\u201cGirl Gone Wild\u201d by Madonna</a> on Genius</div> <script crossorigin src='//genius.com/songs/69129/embed.js'></script>", 
+    "featured_artists": [], 
+    "featured_video": false, 
+    "full_title": "Girl Gone Wild by\u00a0Madonna", 
+    "header_image_thumbnail_url": "https://images.genius.com/e3cac3828f537e3ec45b968ebdb38eaa.300x300x1.jpg", 
+    "header_image_url": "https://images.genius.com/e3cac3828f537e3ec45b968ebdb38eaa.1000x1000x1.jpg", 
+    "hidden": false, 
+    "id": 69129, 
+    "instrumental": false, 
+    "is_music": true, 
+    "lyrics_owner_id": 76262, 
+    "lyrics_state": "complete", 
+    "lyrics_updated_at": 1493564320, 
+    "media": [
+      {
+        "provider": "apple_music", 
+        "provider_id": "511415316", 
+        "type": "audio", 
+        "url": "https://itunes.apple.com/lookup?entity=song&id=511415316"
+      }, 
+      {
+        "native_uri": "spotify:track:6SONqPbbSCVP5rgi0CdRxu", 
+        "provider": "spotify", 
+        "type": "audio", 
+        "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
+      }, 
+      {
+        "provider": "youtube", 
+        "start": 0, 
+        "type": "video", 
+        "url": "http://www.youtube.com/watch?v=tYkwziTrv5o"
+      }
+    ], 
+    "path": "/Madonna-girl-gone-wild-lyrics", 
+    "primary_artist": {
+      "_type": "artist", 
+      "api_path": "/artists/276", 
+      "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+      "id": 276, 
+      "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+      "index_character": "m", 
+      "is_meme_verified": false, 
+      "is_verified": false, 
+      "name": "Madonna", 
+      "slug": "Madonna", 
+      "url": "https://genius.com/artists/Madonna"
+    }, 
+    "primary_tag": {
+      "_type": "tag", 
+      "id": 16, 
+      "name": "Pop", 
+      "primary": true, 
+      "url": "https://genius.com/tags/pop"
+    }, 
+    "producer_artists": [
+      {
+        "_type": "artist", 
+        "api_path": "/artists/69140", 
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+        "id": 69140, 
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+        "index_character": "a", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Alle Benassi", 
+        "slug": "Alle-benassi", 
+        "url": "https://genius.com/artists/Alle-benassi"
+      }, 
+      {
+        "_type": "artist", 
+        "api_path": "/artists/13692", 
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/1378198139_bennybenassi.jpg", 
+        "id": 13692, 
+        "image_url": "https://s3.amazonaws.com/rapgenius/1378198139_bennybenassi.jpg", 
+        "index_character": "b", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Benny Benassi", 
+        "slug": "Benny-benassi", 
+        "url": "https://genius.com/artists/Benny-benassi"
+      }, 
+      {
+        "_type": "artist", 
+        "api_path": "/artists/276", 
+        "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+        "id": 276, 
+        "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+        "index_character": "m", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Madonna", 
+        "slug": "Madonna", 
+        "url": "https://genius.com/artists/Madonna"
+      }
+    ], 
+    "published": false, 
+    "pusher_channel": "song-69129", 
+    "pyongs_count": 1, 
+    "recording_location": null, 
+    "release_date": "2012-03-02", 
+    "release_date_components": {
+      "day": 2, 
+      "month": 3, 
+      "year": 2012
+    }, 
+    "share_url": "https://genius.com/Madonna-girl-gone-wild-lyrics", 
+    "song_art_image_thumbnail_url": "https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.300x300x1.jpg", 
+    "song_art_image_url": "https://images.rapgenius.com/f2e769680d96278956713438fb09b9f0.1000x1000x1.jpg", 
+    "song_relationships": [
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "samples"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "sampled_in"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "interpolates"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "interpolated_by"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "cover_of"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "covered_by"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "remix_of"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "remixed_by"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "live_version_of"
+      }, 
+      {
+        "_type": "song_relationship", 
+        "songs": [], 
+        "type": "performed_live_as"
+      }
+    ], 
+    "soundcloud_url": "", 
+    "spotify_uuid": "6SONqPbbSCVP5rgi0CdRxu", 
+    "stats": {
+      "accepted_annotations": 2, 
+      "contributors": 12, 
+      "hot": false, 
+      "iq_earners": 12, 
+      "pageviews": 8736, 
+      "transcribers": 3, 
+      "unreviewed_annotations": 3, 
+      "verified_annotations": 0
+    }, 
+    "tags": [
+      {
+        "_type": "tag", 
+        "id": 16, 
+        "name": "Pop", 
+        "primary": true, 
+        "url": "https://genius.com/tags/pop"
+      }
+    ], 
+    "title": "Girl Gone Wild", 
+    "title_with_featured": "Girl Gone Wild", 
+    "top_scholar": {
+      "_type": "user_attribution", 
+      "attribution_value": 113.9, 
+      "pinned_role": null, 
+      "user": {
+        "_type": "user", 
+        "about_me_summary": "I practice this like a sport\nMet Donald Trump and he froze up\nStanding on his Bentley\nYelling \u201cpimps down, hoes up!\u201d\n\n-The Coup", 
+        "api_path": "/users/6706", 
+        "avatar": {
+          "medium": {
+            "bounding_box": {
+              "height": 400, 
+              "width": 300
+            }, 
+            "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288147_6706_download.jpeg"
+          }, 
+          "small": {
+            "bounding_box": {
+              "height": 100, 
+              "width": 100
+            }, 
+            "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288147_6706_download.jpeg"
+          }, 
+          "thumb": {
+            "bounding_box": {
+              "height": 32, 
+              "width": 32
+            }, 
+            "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288147_6706_download.jpeg"
+          }, 
+          "tiny": {
+            "bounding_box": {
+              "height": 16, 
+              "width": 16
+            }, 
+            "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/6706_download.jpeg"
+          }
+        }, 
+        "current_user_metadata": {
+          "excluded_permissions": [
+            "follow"
+          ], 
+          "features": [], 
+          "interactions": {
+            "following": false
+          }, 
+          "permissions": []
+        }, 
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288147_6706_download.jpeg", 
+        "human_readable_role_for_display": "Contributor", 
+        "id": 6706, 
+        "iq": 17670, 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "login": "NicoleWitte", 
+        "name": "Nicole Witte", 
+        "role_for_display": "contributor", 
+        "url": "https://genius.com/NicoleWitte"
+      }
+    }, 
+    "tracking_data": [
+      {
+        "key": "Song ID", 
+        "value": 69129
+      }, 
+      {
+        "key": "Title", 
+        "value": "Girl Gone Wild"
+      }, 
+      {
+        "key": "Primary Artist", 
+        "value": "Madonna"
+      }, 
+      {
+        "key": "Primary Artist ID", 
+        "value": 276
+      }, 
+      {
+        "key": "Primary Album", 
+        "value": "MDNA"
+      }, 
+      {
+        "key": "Primary Album ID", 
+        "value": 14693
+      }, 
+      {
+        "key": "Tag", 
+        "value": "pop"
+      }, 
+      {
+        "key": "Primary Tag", 
+        "value": "pop"
+      }, 
+      {
+        "key": "Primary Tag ID", 
+        "value": 16
+      }, 
+      {
+        "key": "Music?", 
+        "value": true
+      }, 
+      {
+        "key": "Annotatable Type", 
+        "value": "Song"
+      }, 
+      {
+        "key": "Annotatable ID", 
+        "value": 69129
+      }, 
+      {
+        "key": "featured_video", 
+        "value": false
+      }, 
+      {
+        "key": "cohort_ids", 
+        "value": []
+      }, 
+      {
+        "key": "has_verified_callout", 
+        "value": false
+      }, 
+      {
+        "key": "has_featured_annotation", 
+        "value": true
+      }, 
+      {
+        "key": "created_at", 
+        "value": "2012-03-24T01:36:04Z"
+      }, 
+      {
+        "key": "created_month", 
+        "value": "2012-03-01"
+      }, 
+      {
+        "key": "created_year", 
+        "value": 2012
+      }, 
+      {
+        "key": "song_tier", 
+        "value": "E"
+      }, 
+      {
+        "key": "Has Recirculated Articles", 
+        "value": false
+      }
+    ], 
+    "tracking_paths": {
+      "aggregate": "/Madonna-girl-gone-wild-lyrics", 
+      "concurrent": "/Madonna-girl-gone-wild-lyrics"
+    }, 
+    "twitter_share_message": "Madonna \u2013 Girl Gone Wild @Madonna https://genius.com/Madonna-girl-gone-wild-lyrics", 
+    "twitter_share_message_without_url": "Madonna \u2013 Girl Gone Wild @Madonna", 
+    "updated_by_human_at": 1496227847, 
+    "url": "https://genius.com/Madonna-girl-gone-wild-lyrics", 
+    "verified_annotations_by": [], 
+    "verified_contributors": [], 
+    "verified_lyrics_by": [], 
+    "viewable_by_roles": [], 
+    "vttp_id": null, 
+    "writer_artists": [
+      {
+        "_type": "artist", 
+        "api_path": "/artists/570945", 
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+        "id": 570945, 
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+        "index_character": "j", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Jenson Vaughn", 
+        "slug": "Jenson-vaughn", 
+        "url": "https://genius.com/artists/Jenson-vaughn"
+      }, 
+      {
+        "_type": "artist", 
+        "api_path": "/artists/69140", 
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+        "id": 69140, 
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1511275790", 
+        "index_character": "a", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Alle Benassi", 
+        "slug": "Alle-benassi", 
+        "url": "https://genius.com/artists/Alle-benassi"
+      }, 
+      {
+        "_type": "artist", 
+        "api_path": "/artists/13692", 
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/1378198139_bennybenassi.jpg", 
+        "id": 13692, 
+        "image_url": "https://s3.amazonaws.com/rapgenius/1378198139_bennybenassi.jpg", 
+        "index_character": "b", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Benny Benassi", 
+        "slug": "Benny-benassi", 
+        "url": "https://genius.com/artists/Benny-benassi"
+      }, 
+      {
+        "_type": "artist", 
+        "api_path": "/artists/276", 
+        "header_image_url": "https://images.genius.com/ec5dc2654780bc3867136a50537a7e68.1000x563x1.jpg", 
+        "id": 276, 
+        "image_url": "https://images.genius.com/ffcc4b8f9a71b9223d49614898c48e43.736x736x1.jpg", 
+        "index_character": "m", 
+        "is_meme_verified": false, 
+        "is_verified": false, 
+        "name": "Madonna", 
+        "slug": "Madonna", 
+        "url": "https://genius.com/artists/Madonna"
+      }
+    ], 
+    "youtube_start": "0", 
+    "youtube_url": "http://www.youtube.com/watch?v=tYkwziTrv5o"
+  }, 
+  "spotify_referral": false, 
+  "title": "Madonna \u2013 Girl Gone Wild Lyrics | Genius Lyrics", 
+  "tracking_data": [
+    {
+      "key": "Song ID", 
+      "value": 69129
+    }, 
+    {
+      "key": "Title", 
+      "value": "Girl Gone Wild"
+    }, 
+    {
+      "key": "Primary Artist", 
+      "value": "Madonna"
+    }, 
+    {
+      "key": "Primary Artist ID", 
+      "value": 276
+    }, 
+    {
+      "key": "Primary Album", 
+      "value": "MDNA"
+    }, 
+    {
+      "key": "Primary Album ID", 
+      "value": 14693
+    }, 
+    {
+      "key": "Tag", 
+      "value": "pop"
+    }, 
+    {
+      "key": "Primary Tag", 
+      "value": "pop"
+    }, 
+    {
+      "key": "Primary Tag ID", 
+      "value": 16
+    }, 
+    {
+      "key": "Music?", 
+      "value": true
+    }, 
+    {
+      "key": "Annotatable Type", 
+      "value": "Song"
+    }, 
+    {
+      "key": "Annotatable ID", 
+      "value": 69129
+    }, 
+    {
+      "key": "featured_video", 
+      "value": false
+    }, 
+    {
+      "key": "cohort_ids", 
+      "value": []
+    }, 
+    {
+      "key": "has_verified_callout", 
+      "value": false
+    }, 
+    {
+      "key": "has_featured_annotation", 
+      "value": true
+    }, 
+    {
+      "key": "created_at", 
+      "value": "2012-03-24T01:36:04Z"
+    }, 
+    {
+      "key": "created_month", 
+      "value": "2012-03-01"
+    }, 
+    {
+      "key": "created_year", 
+      "value": 2012
+    }, 
+    {
+      "key": "song_tier", 
+      "value": "E"
+    }, 
+    {
+      "key": "Has Recirculated Articles", 
+      "value": false
+    }
+  ]
+}

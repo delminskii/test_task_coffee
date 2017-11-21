@@ -4,6 +4,7 @@
 import sys
 import os
 import json
+import argparse
 import requests
 from bs4 import BeautifulSoup as BS4
 
@@ -42,8 +43,15 @@ def get_lyrics(url, bs4_backend='lxml'):
         print 'Can\'t detect meta tag with itemprop=page_data property'
         return str()
 
-    json_value = json.loads(page_data['content'])
-    markup = json_value['lyrics_data']['body']['html']
+    markup = str()
+    try:
+        json_value = json.loads(page_data['content'])
+        markup = json_value['lyrics_data']['body']['html']
+    except KeyError:
+        print """
+            Something's wrong with `content`, `lyrics_data`, `body`, `html` \
+            keys""".strip()
+        return str()
 
     # remove all script tags
     # [s.extract() for s in soup.select('script')]
@@ -72,7 +80,7 @@ def main():
     # special oauth2 header with `Bearer`, see documentation
     headers = {'Authorization': 'Bearer %s' % ACCESS_TOKEN}
 
-    # params for get request
+    # params for a GET request
     params = {'q': 'madonna girl gone wild'}
 
     response = requests.get(SEARCH_ENDPOINT, headers=headers, params=params)
@@ -89,8 +97,12 @@ def main():
             url = '{host}{path}'.format(host=HOST, path=path)
             lyrics = get_lyrics(url)
             if lyrics:
-                # TODO
-                pass
+                print lyrics
+
+                try:
+
+                except IOError:
+
         else:
             print 'It semms like song was not found'
     else:

@@ -1,11 +1,10 @@
 # CoffeeLike test task for junior position
 ## requirements
-<!-------->
-* python 2.7 (written on that)
-* virtualenv 15.0.3 (written for that)
+### script works good with these ones
+* python 2.7
+* virtualenv 15.0.3
 * pip package manager 1.5.4
 ## usage
-<!-------->
 1. You need to get a [client access token](https://docs.genius.com/#/getting-started-h1). Just register there and you'll find it in your profile settings.
 2. Install all the necessary 3rd party libraries using pip:
 ```bash

@@ -72,7 +72,6 @@ def main():
     parser = argparse.ArgumentParser(
         description='Script to get lyrics for song from genius.com')
     parser.add_argument('song',
-                        default='Rick Astley Never Gonna Give You Up',
                         type=str.lower,
                         help='Defines a song to search lyrics for')
     parser.add_argument('--output',

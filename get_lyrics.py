@@ -19,9 +19,9 @@ def by_search_str(item, search_str):
     :param item: dict-like json object
     :param search_str: string we're searching for
     """
-    lowered = map(str.strip, search_str.split(' '))
+    splitted_chunks = map(str.strip, search_str.split(' '))
     full_title = str(item['result']['full_title']).lower().strip()
-    return all(x in full_title for x in lowered)
+    return all(x in full_title for x in splitted_chunks)
 
 
 def get_lyrics(url, bs4_backend='lxml'):
@@ -38,15 +38,15 @@ def get_lyrics(url, bs4_backend='lxml'):
     # we use lxml instead of default html.parser
     # because it's faster
     soup = BS4(response.text, bs4_backend)
-    page_data = soup.select_one('meta[itemprop=page_data]')
+    page_data_tag = soup.select_one('meta[itemprop=page_data]')
 
-    if not page_data:
+    if not page_data_tag:
         print 'Can\'t detect meta tag with itemprop=page_data property'
         return str()
 
     markup = str()
     try:
-        json_value = json.loads(page_data['content'])
+        json_value = json.loads(page_data_tag['content'])
         markup = json_value['lyrics_data']['body']['html']
     except KeyError:
         print """
@@ -92,7 +92,7 @@ def main():
         print '\n'.join(messages)
         sys.exit(1)
 
-    # special oauth2 header with `Bearer`, see documentation
+    # special auth header with `Bearer`, see documentation
     headers = {'Authorization': 'Bearer %s' % ACCESS_TOKEN}
 
     # params for a GET request
@@ -102,7 +102,7 @@ def main():
     if response.ok:
         json_response = response.json()
 
-        # there're multiple search results sent be their server, so
+        # there're multiple search results sent by their server, so
         # we have to filter them and to look for interesting one for us
         search_results = json_response['response']['hits']
         results_filtered = filter(lambda x: by_search_str(x, args.song),

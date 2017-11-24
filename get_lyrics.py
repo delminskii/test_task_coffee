@@ -76,7 +76,9 @@ def main():
                         help='Defines a song to search lyrics for')
     parser.add_argument('--output',
                         '-o',
+                        dest='output_fd',
                         default='/tmp/%s_%s.txt' % (__file__, int(ts())),
+                        type=argparse.FileType('w'),
                         help='Defines an output file to save lyrics on a disk')
     args = parser.parse_args()
 
@@ -114,8 +116,8 @@ def main():
             if lyrics:
                 print lyrics
                 try:
-                    with open(args.output, 'w') as fp:
-                        fp.write(lyrics)
+                    with args.output_fd:
+                        args.output_fd.write(lyrics)
                 except IOError as e:
                     print 'Can\'t write lyrics to disk at %s' % args.output
                     raise e
